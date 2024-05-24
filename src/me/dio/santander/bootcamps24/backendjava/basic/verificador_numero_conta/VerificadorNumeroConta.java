@@ -1,4 +1,4 @@
-package br.com.dio.dio.santander2024;
+package me.dio.santander.bootcamps24.backendjava.basic.verificador_numero_conta;
 
 import java.io.*;
 

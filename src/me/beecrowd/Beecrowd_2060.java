@@ -1,3 +1,4 @@
+package me.beecrowd;
 /*
     https://judge.beecrowd.com/en/problems/view/2060
     Author: @cleberjunior
@@ -9,7 +10,6 @@ import java.util.*;
 public class Beecrowd_2060 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
         br.readLine();
 
         Map<Integer, Integer> referencia = new HashMap<>();
